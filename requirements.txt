@@ -1,5 +1,0 @@
-﻿streamlit==1.44.1
-mysql.connector-python
-pandas
-numpy
-
