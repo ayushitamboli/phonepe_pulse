@@ -1,8 +1,3 @@
-import pandas as pd
-import streamlit as st
-import plotly.express as px
-import os
-import json
 from streamlit_option_menu import option_menu
 from PIL import Image
 from git.repo.base import Repo
