@@ -1,8 +1,3 @@
-from streamlit_option_menu import option_menu
-from PIL import Image
-from git.repo.base import Repo
-
-
 # Setting up page configuration
 icon = Image.open("/Users/bannu/Downloads/ICN.png")
 st.set_page_config(page_title= "Phonepe Pulse Data Visualization | By Ayushi Tamboli",
